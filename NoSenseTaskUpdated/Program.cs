@@ -30,6 +30,8 @@ namespace TestingShit
             });
             Thread.Sleep(1000);
             Console.WriteLine();
+            
+
             Console.Write($"1) Output result is: '{newNum}', because the first member in the array --> '{newNum}', is smaller than {int.MaxValue}");
 
             Console.WriteLine();

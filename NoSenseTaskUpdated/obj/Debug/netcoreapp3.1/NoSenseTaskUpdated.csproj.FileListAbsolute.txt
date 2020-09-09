@@ -11,3 +11,16 @@ C:\Users\Nodar\Desktop\Files\Projects\NoSensus\NoSenseTaskUpdated\obj\Debug\netc
 C:\Users\Nodar\Desktop\Files\Projects\NoSensus\NoSenseTaskUpdated\obj\Debug\netcoreapp3.1\NoSenseTaskUpdated.dll
 C:\Users\Nodar\Desktop\Files\Projects\NoSensus\NoSenseTaskUpdated\obj\Debug\netcoreapp3.1\NoSenseTaskUpdated.pdb
 C:\Users\Nodar\Desktop\Files\Projects\NoSensus\NoSenseTaskUpdated\obj\Debug\netcoreapp3.1\NoSenseTaskUpdated.genruntimeconfig.cache
+C:\Users\Nodar\Desktop\Files\Projects\NN\NoSenseTaskUpdated\bin\Debug\netcoreapp3.1\NoSenseTaskUpdated.exe
+C:\Users\Nodar\Desktop\Files\Projects\NN\NoSenseTaskUpdated\bin\Debug\netcoreapp3.1\NoSenseTaskUpdated.deps.json
+C:\Users\Nodar\Desktop\Files\Projects\NN\NoSenseTaskUpdated\bin\Debug\netcoreapp3.1\NoSenseTaskUpdated.runtimeconfig.json
+C:\Users\Nodar\Desktop\Files\Projects\NN\NoSenseTaskUpdated\bin\Debug\netcoreapp3.1\NoSenseTaskUpdated.runtimeconfig.dev.json
+C:\Users\Nodar\Desktop\Files\Projects\NN\NoSenseTaskUpdated\bin\Debug\netcoreapp3.1\NoSenseTaskUpdated.dll
+C:\Users\Nodar\Desktop\Files\Projects\NN\NoSenseTaskUpdated\bin\Debug\netcoreapp3.1\NoSenseTaskUpdated.pdb
+C:\Users\Nodar\Desktop\Files\Projects\NN\NoSenseTaskUpdated\obj\Debug\netcoreapp3.1\NoSenseTaskUpdated.csprojAssemblyReference.cache
+C:\Users\Nodar\Desktop\Files\Projects\NN\NoSenseTaskUpdated\obj\Debug\netcoreapp3.1\NoSenseTaskUpdated.AssemblyInfoInputs.cache
+C:\Users\Nodar\Desktop\Files\Projects\NN\NoSenseTaskUpdated\obj\Debug\netcoreapp3.1\NoSenseTaskUpdated.AssemblyInfo.cs
+C:\Users\Nodar\Desktop\Files\Projects\NN\NoSenseTaskUpdated\obj\Debug\netcoreapp3.1\NoSenseTaskUpdated.csproj.CoreCompileInputs.cache
+C:\Users\Nodar\Desktop\Files\Projects\NN\NoSenseTaskUpdated\obj\Debug\netcoreapp3.1\NoSenseTaskUpdated.dll
+C:\Users\Nodar\Desktop\Files\Projects\NN\NoSenseTaskUpdated\obj\Debug\netcoreapp3.1\NoSenseTaskUpdated.pdb
+C:\Users\Nodar\Desktop\Files\Projects\NN\NoSenseTaskUpdated\obj\Debug\netcoreapp3.1\NoSenseTaskUpdated.genruntimeconfig.cache
