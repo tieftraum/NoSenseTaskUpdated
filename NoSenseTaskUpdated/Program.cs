@@ -15,7 +15,7 @@ namespace TestingShit
             args[0] = Console.ReadLine();
             Console.WriteLine();
             var collection = HelperTools.StringToIntEnumerable(args[0]);
-            Console.Write($"For the first and second calls arguments for 'ThisDoesntMakeAnySense' are: ");
+            Console.Write($"For the first and second calls array items are : ");
             collection.ToList().ForEach(a =>
             {
                 Thread.Sleep(500);
@@ -37,7 +37,14 @@ namespace TestingShit
             //predicate is always false here;
             var newNum2 = collection.ThisDoesntMakeAnySense(p => p > int.MaxValue, l =>
             {
-                return l.IsNotInAnArray();
+                for (int i = int.MinValue; i < l.Length; i++)
+                {
+                    if (!l.IsInArray(i))
+                    {
+                        return i;
+                    }
+                }
+                return default;
             });
             Console.WriteLine();
             Console.Write($"2) Output result is: '{newNum2}', because none of the members in the array can be greater than {int.MaxValue}, also '{newNum2}' is not member of an array");

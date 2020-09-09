@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nodar\\source\\repos\\NoSenseTaskUpdated\\NoSenseTaskUpdated\\NoSenseTaskUpdated.csproj": {}
+    "C:\\Users\\Nodar\\Desktop\\Files\\Projects\\NoSensus\\NoSenseTaskUpdated\\NoSenseTaskUpdated.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nodar\\source\\repos\\NoSenseTaskUpdated\\NoSenseTaskUpdated\\NoSenseTaskUpdated.csproj": {
+    "C:\\Users\\Nodar\\Desktop\\Files\\Projects\\NoSensus\\NoSenseTaskUpdated\\NoSenseTaskUpdated.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nodar\\source\\repos\\NoSenseTaskUpdated\\NoSenseTaskUpdated\\NoSenseTaskUpdated.csproj",
+        "projectUniqueName": "C:\\Users\\Nodar\\Desktop\\Files\\Projects\\NoSensus\\NoSenseTaskUpdated\\NoSenseTaskUpdated.csproj",
         "projectName": "NoSenseTaskUpdated",
-        "projectPath": "C:\\Users\\Nodar\\source\\repos\\NoSenseTaskUpdated\\NoSenseTaskUpdated\\NoSenseTaskUpdated.csproj",
+        "projectPath": "C:\\Users\\Nodar\\Desktop\\Files\\Projects\\NoSensus\\NoSenseTaskUpdated\\NoSenseTaskUpdated.csproj",
         "packagesPath": "C:\\Users\\Nodar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nodar\\source\\repos\\NoSenseTaskUpdated\\NoSenseTaskUpdated\\obj\\",
+        "outputPath": "C:\\Users\\Nodar\\Desktop\\Files\\Projects\\NoSensus\\NoSenseTaskUpdated\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

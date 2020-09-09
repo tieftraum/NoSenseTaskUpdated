@@ -22,16 +22,16 @@ namespace NoSenseTask.Helpers
                 }
             }
         }
-        public static int IsNotInAnArray(this int[] array)
+        public static bool IsInArray(this int[] array, int number)
         {
             for (int i = 0; i < array.Length; i++)
             {
-                if (i != array[i])
+                if (number == array[i])
                 {
-                    return i;
+                    return true;
                 }
             }
-            return default;
+            return false;
         }
     }
 }
